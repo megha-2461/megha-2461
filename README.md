@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **projects and hackathons**
 
-- 👨‍💻 All of my projects are available at [https://github.com/megha-2461](https://github.com/megha-2461)
+- 👨‍💻 All of my projects are available at [https://github.com/megha-2461?tab=repositories](https://github.com/megha-2461?tab=repositories)
 
 - 📫 How to reach me **meghagoswami1624@gmail.com**
 
